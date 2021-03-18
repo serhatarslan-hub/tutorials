@@ -7,7 +7,7 @@ you get started with P4 programming, organized into several modules:
 
 1. Introduction and Language Basics
 * [Basic Forwarding](./p4app-exercises/basic.p4app)
-* [Basic Tunneling](./p4app-exercises/basic_tunnel.p4ap)
+* [Basic Tunneling](./p4app-exercises/basic_tunnel.p4app)
 
 2. P4Runtime and the Control Plane
 * [P4Runtime](./p4app-exercises/p4runtime.p4app)
