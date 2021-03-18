@@ -6,11 +6,11 @@ Welcome to the P4 Tutorial! We've prepared a set of exercises to help
 you get started with P4 programming, organized into several modules:
 
 1. Introduction and Language Basics
-* [Basic Forwarding](./p4app-exercises/basic)
-* [Basic Tunneling](./p4app-exercises/basic_tunnel)
+* [Basic Forwarding](./p4app-exercises/basic.p4app)
+* [Basic Tunneling](./p4app-exercises/basic_tunnel.p4ap)
 
 2. P4Runtime and the Control Plane
-* [P4Runtime](./p4app-exercises/p4runtime)
+* [P4Runtime](./p4app-exercises/p4runtime.p4app)
 
 3. Monitoring and Debugging
 * [Explicit Congestion Notification](./exercises/ecn)
